@@ -7,3 +7,6 @@ Dividi esse projeto em dois arquivos, um que usei para o treinamento da rede e p
 Infelizmente ue não tenho mais o Arquivo que relamente rodava a rede, que é no caso o arquivo 2, mas ainda tenho o primeiro que esta com nome "SophieTreino"
 
 Sophie recebe a musica em .Wav, analisa o seu spectro musical e rertorna o resultado 0 ou 1 para se a música é agitada ou não.
+
+![image](https://user-images.githubusercontent.com/56227913/158712657-0cc3c11e-a920-4fe7-acb2-f0758da4613b.png)
+
